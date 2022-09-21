@@ -16,3 +16,17 @@ header {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: gold;
+    background-color: blue;
+    border: 5px gold solid;
+    text-align: center;
+}
+
+.input {
+    position: relative;
+    top: 0px;
+}
